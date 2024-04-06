@@ -1,4 +1,4 @@
-![Livro de Gênesis](link_para_imagem)
+![Livro de Gênesis](https://github.com/IE-Pentecostal-Terra-de-Milagre/G-nesis/blob/25596b88e79986735c849821fb5972383170b59d/G%C3%AAnesis/G%C3%AAnesis.png)
 
 # Relatório da Avaliação do Livro de Gênesis
 
