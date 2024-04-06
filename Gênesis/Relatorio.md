@@ -1,23 +1,25 @@
+![Livro de Gênesis](link_para_imagem)
+
 # Relatório da Avaliação do Livro de Gênesis
 
 O Livro de Gênesis é o primeiro livro da Bíblia hebraica (Tanakh) e do Antigo Testamento cristão. Trata-se de uma narrativa que abrange desde a criação do mundo até a morte de José, filho de Jacó. Gênesis é conhecido por conter histórias importantes como a criação do mundo, o dilúvio, a torre de Babel, a história de Abraão, Isaque, Jacó e José, entre outras.
 
-Nível de dificuldade da avaliação: Facil
+Nível de dificuldade da avaliação: Fácil
 
 ## Nome dos Participantes
 
-| Nome   | Moisés | 50   | "No princípio criou Deus os céus e a terra." | Adão | Caim e Abel | Noé | Um arco-íris | 500 anos | Cam | Pomba | Prometeu que ele seria pai de muitas nações | Isaque | Isaque | Monte Moriá | Sodoma e Gomorra | 13  | Raquel | 17 anos | Representava sua futura posição como governante do Egito | Azenate |
-|--------|--------|------|---------------------------------------------|------|-------------|-----|--------------|-----------|-----|-------|----------------------------------------------|--------|--------|-------------|------------------|-----|--------|---------|----------------------------------------------------------|----------|
-| Ana    | ✔️     | ✔️   | ✔️                                           | ✔️    | ✔️          | ✔️   | ✔️            | ✔️         | ✔️   | ✔️     | ✔️                                            | ✔️      | ✔️      | ✔️          | ✔️                | ✔️   | ✔️     | ✔️       | ✔️                                                      | ✔️        |
-| Antônia|        | ✔️   | ✔️                                           | ✔️    | ✔️          | ✔️   | ✔️            | ✔️         | ✔️   | ✔️     | ✔️                                            | ✔️      | ✔️      | ✔️          | ✔️                | ✔️   | ✔️     | ✔️       | ✔️                                                      | ✔️        |
-| Priscila| ✔️     | ✔️   | ✔️                                           | ✔️    | ✔️          | ✔️   | ✔️            | ✔️         | ✔️   | ✔️     | ✔️                                            | ✔️      | ✔️      | ✔️          | ✔️                | ✔️   | ✔️     | ✔️       | ✔️                                                      | ✔️        |
-| Mateus |        | ✔️   | ✔️                                           | ✔️    | ✔️          | ✔️   | ✔️            | ✔️         |       | ✔️     | ✔️                                            |        | ✔️      |             | ✔️                | ✔️   | ✔️     | ✔️       | ✔️                                                      |          |
-| Clara  | ✔️     | ✔️   | ✔️                                           | ✔️    | ✔️          | ✔️   | ✔️            | ✔️         | ✔️   | ✔️     | ✔️                                            | ✔️      | ✔️      | ✔️          | ✔️                | ✔️   | ✔️     | ✔️       | ✔️                                                      |          |
-| Patrícia|       | ✔️   | ✔️                                           | ✔️    | ✔️          | ✔️   | ✔️            | ✔️         |       | ✔️     | ✔️                                            | ✔️      |        | ✔️          | ✔️                | ✔️   | ✔️     | ✔️       | ✔️                                                      | ✔️        |
-| Cleany | ✔️     | ✔️   | ✔️                                           | ✔️    | ✔️          | ✔️   | ✔️            | ✔️         | ✔️   | ✔️     | ✔️                                            | ✔️      | ✔️      | ✔️          | ✔️                | ✔️   | ✔️     | ✔️       | ✔️                                                      | ✔️        |
-| Rafaela| ✔️     | ✔️   | ✔️                                           | ✔️    | ✔️          | ✔️   | ✔️            | ✔️         |       | ✔️     | ✔️                                            | ✔️      | ✔️      |             | ✔️                | ✔️   | ✔️     | ✔️       | ✔️                                                      | ✔️        |
-| Bruno  | ✔️     | ✔️   | ✔️                                           | ✔️    | ✔️          | ✔️   | ✔️            | ✔️         | ✔️   | ✔️     | ✔️                                            | ✔️      | ✔️      | ✔️          | ✔️                | ✔️   | ✔️     | ✔️       | ✔️                                                      | ✔️        |
-| Renata | ✔️     | ✔️   | ✔️                                           | ✔️    | ✔️          | ✔️   | ✔️            | ✔️         | ✔️   | ✔️     | ✔️                                            | ✔️      | ✔️      | ✔️          | ✔️                | ✔️   | ✔️     | ✔️       | ✔️                                                      | ✔️        |
+| Nome         | Nota | Número de Erros | Número de Respostas em Branco |
+|--------------|------|-----------------|--------------------------------|
+| Ana          | 10   | 0               | 0                              |
+| Antônia      | 10   | 0               | 0                              |
+| Priscila     | 10   | 0               | 0                              |
+| Mateus       | 8,5  | 0               | 3                              |
+| Clara        | 10   | 0               | 0                              |
+| Patrícia     | 8    | 1               | 3                              |
+| Cleany       | 10   | 0               | 0                              |
+| Rafaela      | 9    | 1               | 1                              |
+| Bruno        | 10   | 0               | 0                              |
+| Renata       | 10   | 0               | 0                              |
 
 ## Respostas Corretas
 
