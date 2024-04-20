@@ -1,4 +1,4 @@
-![Livro de Êxodo](https://)
+![Livro de Êxodo](https://github.com/IE-Pentecostal-Terra-de-Milagre/Estudo/blob/97c39d99f08cbc65eddca1d40b7cd646c565d00a/%C3%8Axodo/exodo.png)
 
 # Relatório da Avaliação do Livro de Êxodo
 
