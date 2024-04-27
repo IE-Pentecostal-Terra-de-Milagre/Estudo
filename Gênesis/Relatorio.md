@@ -12,14 +12,15 @@ Nível de dificuldade da avaliação: Fácil
 |--------------|------|-----------------|--------------------------------|
 | Ana          | 10   | 0               | 0                              |
 | Antônia      | 10   | 0               | 0                              |
-| Priscila     | 10   | 0               | 0                              |
-| Mateus       | 8,5  | 0               | 3                              |
-| Clara        | 10   | 0               | 0                              |
-| Patrícia     | 8    | 1               | 3                              |
-| Cleany       | 10   | 0               | 0                              |
-| Rafaela      | 9    | 1               | 1                              |
+| Priscila     | 8    | 4               | 0                              |
+| Mateus       | 7,5  | 5               | 0                              |
+| Clara        | 8,5  | 3               | 0                              |
+| Patrícia     | 7    | 6               | 0                              |
+| Cleany       | 9    | 2               | 0                              |
+| Rafaela      | 7,5  | 5               | 0                              |
 | Bruno        | 10   | 0               | 0                              |
-| Renata       | 10   | 0               | 0                              |
+| Renata       | 8    | 4               | 0                              |
+| Claudenice M | 8    | 4               | 0                              |
 
 ## Respostas Corretas
 
